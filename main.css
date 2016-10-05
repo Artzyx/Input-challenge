@@ -74,3 +74,6 @@ p {
 p a {
   color: #9C9D9E;
 }
+button:hover[type="submit"] {
+  background-color: #0CB863;
+}
